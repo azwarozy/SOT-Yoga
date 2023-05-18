@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@fullcalendar/daygrid": "^6.1.7",
+    "@fullcalendar/interaction": "^6.1.7",
+    "@fullcalendar/timegrid": "^6.1.7",
+    "moment": "^2.29.4",
+    "react-big-calendar": "^1.6.9"
+  }
+}

@@ -1,1 +1,1 @@
-# SOT-Yoga
+# yoga-app
